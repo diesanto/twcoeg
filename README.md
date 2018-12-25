@@ -9,7 +9,7 @@ pip install -r requirements.txt --user
 ./main.py
 ```
 ### Setup Server Ubuntu 16.04 for MongoDB Server
-[How to install MongoDB on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-16-04}
+[How to install MongoDB on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-16-04)
 
 I use AdminMongo for MongoDB Web Interface Dashboard, see [this](https://github.com/mrvautin/adminMongo)
 

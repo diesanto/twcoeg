@@ -16,8 +16,11 @@ I use AdminMongo for MongoDB Web Interface Dashboard, see [this](https://github.
 ### Screenshot 
 #### Main
 ![Main](https://github.com/zetc0de/twcoeg/blob/master/Screenshots/main.png?raw=true)
+#### Analyze
 ![Analyze](https://github.com/zetc0de/twcoeg/blob/master/Screenshots/analyze.png?raw=true)
+#### Tweet count
 ![Tweet Count](https://github.com/zetc0de/twcoeg/blob/master/Screenshots/tweetcount.png?raw=true)
+#### MongoDB
 ![MongoDB](https://github.com/zetc0de/twcoeg/blob/master/Screenshots/mongodb.png?raw=true)
 
 
